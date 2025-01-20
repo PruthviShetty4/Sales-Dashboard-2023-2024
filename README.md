@@ -10,6 +10,8 @@ Below is a preview of the Power BI dashboard:
 
 [Sales Dashboard Preview](Sales_Dashboard_Preview.png)
 
+[Sales Dashboard Preview Video](Sales_Dashboard_Preview_Preview_vd.mp4)
+
 ---
 
 ## 📊 Features of the Dashboard
