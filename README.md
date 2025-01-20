@@ -8,9 +8,9 @@ This repository contains a Power BI dashboard that visualizes and analyzes sales
 
 Below is a preview of the Power BI dashboard:
 
-[Sales Dashboard Preview](Sales_Dashboard_Preview.png)
+[Sales Dashboard Preview-1](Sales_Dashboard_Preview.png)
 
-[Sales Dashboard Preview Video](Sales_Dashboard_Preview_Preview_vd.mp4)
+[Sales Dashboard Preview-2](Sales_Dashboard_Preview_.png)
 
 ---
 
